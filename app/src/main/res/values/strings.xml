@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">compose2</string>
+    <string name="search_hint">search users</string>
+    <string name="loading">loading..</string>
+    <string name="search">search</string>
+    <string name="fullName">full name</string>
+    <string name="userName">user name</string>
+    <string name="blog">blog</string>
+    <string name="location">location</string>
+    <string name="detail">detail</string>
+    <string name="error">error</string>
+</resources>

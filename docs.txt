@@ -1,0 +1,11 @@
+https://developer.android.com/jetpack/compose/lists
+
+https://foso.github.io/Jetpack-Compose-Playground/material/card/
+
+https://decode.agency/article/jetpack-compose-state/
+
+https://www.valueof.io/blog/stateflow-sharedflow-flow-viewmodel-lifecycle
+
+https://bladecoder.medium.com/kotlins-flow-in-viewmodels-it-s-complicated-556b472e281a
+
+https://vtsen.hashnode.dev/simple-jetpack-compose-navigation-example
