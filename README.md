@@ -4,3 +4,4 @@ yet another basic android project using jetpack compose with mvvm
 #### improvements:
 - using UseCase pattern
 - caching data in repository layer
+- adding DTOs of reponse models
