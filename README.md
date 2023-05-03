@@ -1,4 +1,6 @@
 # jetpack-compose-with-mvvm-sample
-android android project using jetpack compose with mvvm  
+yet another basic android project using jetpack compose with mvvm  
 
-
+#### improvements:
+- using UseCase pattern
+- caching data in repository layer
